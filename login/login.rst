@@ -9,7 +9,7 @@ Para acessar o sistema o SAIP, digite a seguinte URL no navegador: https://www.s
 .. image:: ../images/URL-SAIP.png
    :alt: URL SAIP
 
-Após ser apresentada a tela de login, clique na opção **Acessar com gov.br**. Então realize o login na plataforma **gov.br** e você será redirecionado para a tela inicial do SAIP.
+Após ser apresentada a tela de login, clique na opção **Acessar com gov.br**. Então seguida, realize o login na plataforma **gov.br** e você será redirecionado para a tela inicial do SAIP.
 
 .. image:: ../images/SAIP-Login.png
    :alt: URL Login
