@@ -2,9 +2,9 @@ Login
 ===========================
 
 .. meta::
-   :description lang=pt_BR: Como realizar login no SAIP.
+   :description: Como realizar login no SAIP.
 
-Para acessar o sistema o SAIP, digite a seguinte URL no navegador: https://www.saip.iphan.gov.br
+Para acessar o sistema SAIP, digite a seguinte URL no navegador: https://www.saip.iphan.gov.br
 
 .. image:: ../images/URL-SAIP.png
    :alt: URL SAIP

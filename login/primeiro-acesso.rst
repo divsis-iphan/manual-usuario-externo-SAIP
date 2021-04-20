@@ -4,7 +4,7 @@ Primeiro Acesso
 .. meta::
    :description: Primeiros passos para acessar o SAIP
 
-Para acessar o sistema o SAIP, digite a seguinte URL no navegador: https://www.saip.iphan.gov.br
+Para acessar o sistema SAIP, digite a seguinte URL no navegador: https://www.saip.iphan.gov.br
 
 .. image:: ../images/URL-SAIP.png
    :alt: URL SAIP
