@@ -6,13 +6,10 @@ Login
 
 Para acessar o sistema SAIP, digite a seguinte URL no navegador: https://www.saip.iphan.gov.br
 
-.. image:: ../images/URL-SAIP.png
+Após ser apresentada a tela de login, clique na opção **Acessar com gov.br**. Em seguida, realize o login na plataforma **gov.br** para redirecionamento para a tela inicial do SAIP.
+
+.. image:: ../images/saip_login.jpg
    :alt: URL SAIP
-
-Após ser apresentada a tela de login, clique na opção **Acessar com gov.br**. Então seguida, realize o login na plataforma **gov.br** e você será redirecionado para a tela inicial do SAIP.
-
-.. image:: ../images/SAIP-Login.png
-   :alt: URL Login
 
 .. image:: ../images/GovBR-Login-CPF.png
    :alt: Gov BR Login CPF

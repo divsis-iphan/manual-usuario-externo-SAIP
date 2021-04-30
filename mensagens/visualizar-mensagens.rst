@@ -4,7 +4,7 @@ Verificar Mensagens
 .. meta::
    :description: Visualizar mensagens recebidas.
 
-Para acessar as mensagens encaminhadas pelo SAIP, basta clicar na opção **Mensagens** no menu lateral esquerdo.
+Para acessar as mensagens encaminhadas pelo SAIP, clicar na opção **Mensagens** no menu lateral esquerdo.
 
 .. image:: ../images/SAIP-Menu-Mensagens.png
    :alt: SAIP Menu Mensagens
@@ -21,7 +21,7 @@ Em **Pesquisar Mensagem**, na parte superior se encontram os filtros de pesquisa
    :alt: SAIP Mensagens Pesquisar Filtros
 
 .. note:: 
-    Sempre que ao preencher os filtros, não esqueça de acionar o botão **Pesquisar**, para que a ação possa ser executada.
+    Sempre que ao preencher os filtros, acionar o botão **Pesquisar** para que a ação possa ser executada.
 
 .. image:: ../images/SAIP-Mensagens-Pesquisar-Filtros-Pesquisar.png
    :alt: SAIP Mensagens Pesquisar Filtros Pesquisar
@@ -29,7 +29,7 @@ Em **Pesquisar Mensagem**, na parte superior se encontram os filtros de pesquisa
 .. note:: 
     Os tipos de mensagem poderão ser do Tipo **Correção**, onde deverá ser realizada alguma correção na solicitação para que a mesma seja aprovada, ou do Tipo **Indeferimento** onde apresentará motivo(s) pelo(s) qual(is) a sua solicitação foi indeferida.
 
-Em **Pesquisar Mensagem**, na parte inferior, encontram-se os registros totais de mensagem ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são Solicitação, Tipo, Devolvido Por, Motivo, Data do Envio e Ações.
+Em **Pesquisar Mensagem** na parte inferior, encontram-se os registros totais de mensagem ou o resultado da pesquisa realizada com os filtros.  As colunas apresentadas são Solicitação, Tipo, Devolvido Por, Motivo, Data do Envio e Ações. 
 
 .. image:: ../images/SAIP-Mensagens-Pesquisar-Resultado.png
    :alt: SAIP Mensagens Pesquisar Resultado
@@ -48,7 +48,7 @@ Na lista, há as ações de **Visualizar Mensagem** e **Excluir Mensagem**, resp
 Visualizar Mensagem
 ----------------------------
 
-Ao acionar o botão **Visualizar Mensagem**, o sistema apresentará uma janela com todas as informações detalhadas da mensagem. Serão apresentados os botões **Fechar** e **Seguir para análise**, os quais, respectivamente um realiza o fechamento da janela e o outro encaminha o usuário para a solicitação relacionada a mensagem.
+O botão **Visualizar Mensagem**, o sistema apresenta uma janela com todas as informações detalhadas da mensagem. São apresentados os botões **Fechar** e **Seguir para análise** os quais respectivamente, realiza o fechamento da janela e encaminha o usuário para a solicitação relacionada a mensagem.
 
 .. image:: ../images/SAIP-Mensagens-VisualizarMensagem.png
    :alt: SAIP Mensagens Visualizar Mensagem
@@ -56,7 +56,7 @@ Ao acionar o botão **Visualizar Mensagem**, o sistema apresentará uma janela c
 Excluir Mensagem
 ----------------------------
 
-Ao acionar o botão **Excluir Mensagem**, o sistema apresentará uma janela de confirmação da exclusão. Serão apresentados os botões **Cancelar** e **Ok**, os quais, respectivamente um realiza o fechamento da mensagem e o outro confirma a exclusão da mensagem.
+Ao acionar o botão **Excluir Mensagem**, o sistema apresenta uma janela de confirmação da exclusão. Serão apresentados os botões **Cancelar** e **Ok** os quais respectivamente, um realiza o fechamento da mensagem e o outro confirma a exclusão da mensagem.
 
 .. image:: ../images/SAIP-Mensagens-ExcluirMensagem.png
    :alt: SAIP Mensagens Excluir Mensagem
