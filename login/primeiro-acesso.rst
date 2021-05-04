@@ -39,7 +39,7 @@ Clique no botão **Avançar**, ao terminar o formulário.
 
 .. note:: 
 
-   O sistema vai carregar o seu Nome, CPF e e-mail da plataforma **gov.br**. Permitindo alterar somente o e- mail, caso necessário.
+   O sistema vai carregar o seu Nome, CPF e e-mail da plataforma **gov.br**. Permitindo alterar somente o e-mail, caso necessário.
 
 .. note:: 
 
