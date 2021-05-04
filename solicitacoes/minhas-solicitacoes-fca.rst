@@ -38,7 +38,7 @@ Em **Pesquisar Solicitação**, na parte inferior encontram se os registros tota
    :alt: SAIP Minhas Solicitacoes Resultado Ordem
 
 .. note:: 
-    Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades há a opção de selecionar os ícones de página anterior e próxima página.
+    Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros, é possível selecionar a página desejada.  E nas extremidades, há a opção de selecionar os ícones de página anterior e próxima página.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado-Paginacao.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado Paginacao

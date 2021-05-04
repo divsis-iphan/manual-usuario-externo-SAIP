@@ -74,10 +74,10 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, são de preen
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Campos Obrigatorios
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias, mas deseje salvar as informações já preenchidas, acione o botão **Salvar**. O sistema salva todas as informações sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias, mas deseje salvar as informações preenchidas acione o botão **Salvar**, o sistema salva todas as informações sem realizar as validações necessárias.
 
 .. note::
- Ao finalizar o preenchimento de todas as informações, clique no botão **Próximo** para que o sistema valide as suas informações. E caso, estejam todas corretas o sistema direciona para o Passo 2 - Área Diretamente Afetada - ADA.
+ Ao finalizar o preenchimento de todas as informações, clique no botão **Próximo** para que o sistema valide as suas informações. E caso, estejam todas corretas será direcionado para o Passo 2 - Área Diretamente Afetada - ADA.
 
 Passo 2 - Área Diretamente Afetada - ADA
 --------------------------------------------
@@ -156,7 +156,7 @@ No passo 3, informar os dados da Área de Influência Direta (AID) do Empreendim
 .. image:: ../images/SAIP-NovaSolicitacao-Passo3-AID-Infos.png
    :alt: SAIP Nova Solicitacao Passo 3 AID Infos
 
-O mapa é único campo de preenchimento obrigatório. E caso, o campo não seja preenchido o sistema apresenta uma mensagem de alerta, conforme exemplo abaixo:
+O mapa é único campo de preenchimento obrigatório. E caso, o campo não seja preenchido, o sistema apresenta uma mensagem de alerta para o campo, conforme exemplo abaixo:
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo3-AID-CamposObrigatorios.png
    :alt: SAIP Nova Solicitacao Passo 3 AID Campos Obrigatorios
@@ -165,7 +165,7 @@ O mapa é único campo de preenchimento obrigatório. E caso, o campo não seja 
    Caso não tenha preenchido todas as informações obrigatórias, mas deseja salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva sem realizar as validações necessárias.
 
 .. note::
-   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide e direcione para o Passo 4 - Municípios. 
+   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide e caso esteja tudo correto, será direcionado para o Passo 4 - Municípios.
 
 Passo 4 - Municípios
 --------------------------------------------
@@ -207,8 +207,8 @@ No passo 5, deverão ser informados os dados do projeto de engenharia e instala�
 6. Botão **Adicionar** ao ser acionado, adiciona os dados da Instalação Secundária na lista de Instalações. Ao editar, o botão tem a nomenclatura **Atualizar** que ao ser acionado atualiza os dados da respectiva Instalação Secundária.
 
 .. note::
-   Caso deseje que a imagem possua um nome diferente do arquivo original, informe primeiro no campo **Nome do Arquivo**, para então selecionar o arquivo a ser inserido. 
-
+   Caso deseje que a imagem possua um nome diferente do arquivo original, informe primeiramente o campo **Nome do Arquivo**, para então selecionar o arquivo a ser inserido.
+ 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo5-ElementosProjetoEngenharia-Infos.png
    :alt: SAIP Nova Solicitacao Passo 5 Elementos Projeto Engenharia Infos
 
@@ -221,7 +221,7 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, são de preen
    Caso não tenha preenchido todas as informações obrigatórias, mas deseja salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva todas as informações sem realizar as validações necessárias.
 
 .. note::
-   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema direcione para o Passo 6 - Previsão de Impacto.
+   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide e caso esteja tudo correto, será direcionado para o Passo 6 - Previsão de Impacto.
 
 Passo 6 - Previsão de Impacto
 --------------------------------------------
@@ -245,7 +245,7 @@ Ao informar que há impacto em meio aquático no Empreendimento, o sistema apres
    Caso não tenha preenchido todas as informações obrigatórias, mas deseje salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva sem realizar as validações necessárias.
 
 .. note::
-   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema direcione para o Passo 6 - Previsão de Impacto.
+   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide e caso esteja tudo correto, será direcionado para o Passo 6 - Previsão de Impacto.
 
 Passo 7 - Processos
 --------------------------------------------
@@ -261,7 +261,7 @@ Em **Dados de Processos**, informar os dados dos processos que o Empreendimento 
    :alt: SAIP Nova Solicitacao Passo 7 Processos Incluir Processo
 
 .. note:: 
-    Lembre-se que, ao terminar de preencher os dados o botão **Adicionar** deverá ser clicado para que o sistema inclua os dados informados na solicitação
+    Lembre-se que, ao terminar de preencher os dados, o botão **Adicionar** deverá ser clicado, para que o sistema inclua os dados informados na solicitação.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-IncluirProcesso-Adicionar.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Incluir Processo Adicionar

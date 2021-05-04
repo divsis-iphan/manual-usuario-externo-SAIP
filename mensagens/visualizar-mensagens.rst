@@ -62,4 +62,4 @@ Ao acionar o botão **Excluir Mensagem**, o sistema apresenta uma janela de conf
    :alt: SAIP Mensagens Excluir Mensagem
 
 .. note:: 
-   Atenção: ao clicar em exclusão de mensagem não é possível sua recuperação, o sistema exclui em definitivo.
+   Atenção ao excluir uma mensagem, pois ela se dá de forma permanente, não sendo possível sua recuperação, após exclusão.
