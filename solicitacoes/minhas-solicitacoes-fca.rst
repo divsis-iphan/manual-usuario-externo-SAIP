@@ -4,7 +4,7 @@ Minhas Solicitações (FCA)
 .. meta::
    :description: Visualizar as solicitações realizadas.
 
-Para acessar, as solicitações já realizadas e acompanhá-las pelo SAIP clicar na opção **Minhas Solicitações** no menu lateral esquerdo.
+Para acessar as solicitações já realizadas e acompanhá-las pelo SAIP clicar na opção **Minhas Solicitações** no menu lateral esquerdo.
 
 .. image:: ../images/SAIP-Menu-MinhasSolicitacoes.png
    :alt: SAIP Menu Minhas Solicitacoes
@@ -15,7 +15,7 @@ Para acessar, as solicitações já realizadas e acompanhá-las pelo SAIP clicar
 Solicitações
 ----------------------------
 
-Em **Pesquisar Solicitação**, na parte superior se encontram os filtros de pesquisa como Número da Solicitação, Fase, Situação, Data de Abertura e Empreendimento.
+Em **Pesquisar Solicitação**, na parte superior, encontram-se os filtros de pesquisa como Número da Solicitação, Fase, Situação, Data de Abertura e Empreendimento.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Filtros.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Filtros
@@ -26,7 +26,7 @@ Em **Pesquisar Solicitação**, na parte superior se encontram os filtros de pes
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Filtros-Pesquisar.png
    :alt: SAIP Minhas Solicitacoes Pesquisar  Filtros Pesquisar
 
-Em **Pesquisar Solicitação**, na parte inferior encontram se os registros totais de solicitações ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são: Solicitação, Empreendimento, Fase, Situação, Data de Abertura e Ações. 
+Em **Pesquisar Solicitação**, na parte inferior, encontram-se os registros totais de solicitações ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são: Solicitação, Empreendimento, Fase, Situação, Data de Abertura e Ações. 
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado
@@ -43,11 +43,11 @@ Em **Pesquisar Solicitação**, na parte inferior encontram se os registros tota
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado-Paginacao.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado Paginacao
 
-Na lista, há as ações de **Clonar Solicitação**, **Visualizar Solicitação**, **Detalhar Solicitação**, **Encaminhar para a Instância Recursal**, **Concordo com o TRE analisado manualmente** e **Excluir Solicitação**, respectivamente.
+Na lista há as ações de **Clonar Solicitação**, **Visualizar Solicitação**, **Detalhar Solicitação**, **Encaminhar para a Instância Recursal**, **Concordo com o TRE analisado manualmente** e **Excluir Solicitação** respectivamente.
 
 
 .. note:: 
-    As ações são apresentadas, de acordo com a **Situação** atual da solicitação.
+    As ações são apresentadas de acordo com a **Situação** atual da solicitação.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Acoes.png
    :alt: SAIP Minhas Solicitacoes Acoes
@@ -55,7 +55,7 @@ Na lista, há as ações de **Clonar Solicitação**, **Visualizar Solicitação
 Clonar Solicitação
 ----------------------------
 
-Ao acionar o botão **Clonar Solicitação**, o sistema clona a respectiva solicitação, informando um novo número da solicitação clonada.
+Ao acionar o botão **Clonar Solicitação** o sistema clona a respectiva solicitação, informando um novo número da solicitação clonada.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ClonarSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Clonar Solicitacao
@@ -63,7 +63,7 @@ Ao acionar o botão **Clonar Solicitação**, o sistema clona a respectiva solic
 Visualizar Solicitação
 ----------------------------
 
-Ao acionar o botão **Visualizar Solicitação**, o sistema apresenta uma janela com os dados da solicitação. Caso deseje fechar a janela, clique no botão **Fechar**.
+Ao acionar o botão **Visualizar Solicitação** o sistema apresenta uma janela com os dados da solicitação. Caso deseje fechar a janela, clique no botão **Fechar**.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-VisualizarSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Visualizar Solicitacao
