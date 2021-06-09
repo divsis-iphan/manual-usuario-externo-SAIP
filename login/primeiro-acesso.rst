@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 1 chamado Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
+No passo 1 - chamado Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
@@ -43,7 +43,7 @@ Clique no botão **Avançar** ao terminar o formulário.
 
 .. note:: 
 
-   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema automaticamente irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, será permitido a inserção do endereço de forma manual.
+   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema automaticamente irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, será permitida a inserção do endereço de forma manual.
 
 Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. Caso os campos não sejam preenchidos, o sistema vai apresentar uma mensagem informando da obrigatoriedade do preenchimento das informações conforme exemplo abaixo:
 
@@ -61,12 +61,12 @@ No passo 2 - chamado Interessado: Preencher as informações da Empresa ou Pesso
 .. image:: ../images/DadosComplementares-Interessado-PF-ou-PJ.png
    :alt: Dados Complementares Interessado PF ou PJ
 
-Escolher se o interessado é Pessoa Física ou Pessoa Jurídica, o sistema gera um formulário especifico.
+Ao escolher se o interessado é Pessoa Física ou Pessoa Jurídica, o sistema gerará um formulário especifico.
 
 Pessoa Física
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informações CPF, Nome, CEP, Complemento, E- mail e Telefone. Ao final, concordar com a auto declaração e clicar no botão **Confirmar**.
+Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informações CPF, Nome, CEP, Complemento, e-mail e Telefone. Ao final, concordar com a auto declaração e clicar no botão **Confirmar**.
 
 .. image:: ../images/DadosComplementares-Interessado-PF.png
    :alt: Dados Complementares Interessado PF
@@ -77,7 +77,7 @@ Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informaçõe
 
 .. note:: 
 
-   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado, o sistema vai pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, é permitido que seja inserido o endereço de forma manual.
+   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, será permitida a inserção do endereço de forma manual.
    
 
 Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. Caso os campos não sejam preenchidos, o sistema apresentará uma mensagem informando da obrigatoriedade do preenchimento das informações conforme exemplo abaixo:
@@ -88,13 +88,13 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenc
 Pessoa Jurídica
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Pessoa Jurídica, preencher o CNPJ para ser consultado na base de dados.
+Preencher o CNPJ para ser consultado na base de dados.
 
 .. image:: ../images/DadosComplementares-Interessado-PJ.png
    :alt: Dados Complementares Interessado PJ
 
 
-Após informar o CNPJ, o sistema apresenta o formulário. Este, deverá ser preenchido a Razão Social, porte da empresa, representante, Endereço, e-mail e Telefone. A auto declaração será apresentada no final, clique no botão concordar e então no botão **Confirmar**. 
+Após informar o CNPJ, o sistema apresentará um formulário. Este deverá ser preenchido com a Razão Social, o porte da empresa, o representante, endereço, e-mail e telefone. A auto declaração será apresentada no final. Clique no botão concordar e então no botão **Confirmar**. 
 
 .. image:: ../images/DadosComplementares-Interessado-PJ-Nao-Encontrado.png
    :alt: Dados Complementares Interessado PJ Não Encontrado
@@ -105,7 +105,7 @@ Após informar o CNPJ, o sistema apresenta o formulário. Este, deverá ser pree
 
 .. note:: 
 
-   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado, que o sistema pesquisa o endereço, conforme o CEP informado. Caso o sistema, não encontre os dados para o respectivo CEP é permitido que seja inserido o endereço de forma manual.
+   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, é permitido que seja inserido o endereço de forma manual.
 
 
 Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. E caso os campos não sejam preenchidos, o sistema apresenta uma mensagem informando da obrigatoriedade do preenchimento das informações, conforme exemplo abaixo: 
