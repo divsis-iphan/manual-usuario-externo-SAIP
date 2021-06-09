@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 1 - Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
+Passo 1 - Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
@@ -54,7 +54,7 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenc
 Interessado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 2 - Interessado: preencher as informações da Empresa ou Pessoa Física interessada em solicitar o Licenciamento Ambiental junto ao IPHAN.
+Passo 2 - Interessado: preencher as informações da Empresa ou Pessoa Física interessada em solicitar o Licenciamento Ambiental junto ao IPHAN.
  
 
 
