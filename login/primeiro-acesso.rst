@@ -94,7 +94,7 @@ Preencher o CNPJ a ser consultado na base de dados.
    :alt: Dados Complementares Interessado PJ
 
 
-Após informar o CNPJ, o sistema apresentará um formulário. Este deverá ser preenchido com a Razão Social, o porte da empresa, o representante, endereço, e-mail e telefone. A auto declaração será apresentada no final. Clique no botão concordar e então no botão **Confirmar**. 
+Após informar o CNPJ, o sistema apresentará um formulário. Este deverá ser preenchido com a Razão Social, o porte da empresa, o representante, endereço, e-mail e telefone. A autodeclaração será apresentada no final. Clique no botão concordar e então no botão **Confirmar**. 
 
 .. image:: ../images/DadosComplementares-Interessado-PJ-Nao-Encontrado.png
    :alt: Dados Complementares Interessado PJ Não Encontrado
