@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 1 - chamado Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone. Para finalização do cadastro. 
+No passo 1 chamado Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
@@ -43,7 +43,7 @@ Clique no botão **Avançar** ao terminar o formulário.
 
 .. note:: 
 
-   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema automaticamente vai pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP é permitido que seja inserido o endereço de forma manual.
+   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema automaticamente irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, será permitido a inserção do endereço de forma manual.
 
 Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. Caso os campos não sejam preenchidos, o sistema vai apresentar uma mensagem informando da obrigatoriedade do preenchimento das informações conforme exemplo abaixo:
 
