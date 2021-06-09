@@ -39,7 +39,7 @@ Clique no botão **Avançar** ao terminar o formulário.
 
 .. note:: 
 
-   O sistema vai carregar o seu Nome, CPF e e-mail da plataforma **gov.br** permitindo alterar somente o e-mail, caso necessário.
+   O sistema vai carregar o seu nome, CPF e e-mail da plataforma **gov.br** permitindo alterar somente o e-mail, caso necessário.
 
 .. note:: 
 
@@ -105,7 +105,7 @@ Após informar o CNPJ, o sistema apresentará um formulário. Este deverá ser p
 
 .. note:: 
 
-   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP, será permitida a inserção do endereço de forma manual.
+   Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema irá pesquisar o endereço conforme o CEP informado. Caso o sistema não encontre os dados para o respectivo CEP será permitida a inserção do endereço de forma manual.
 
 
 Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. Caso os campos não sejam preenchidos, o sistema apresentará uma mensagem informando da obrigatoriedade do preenchimento das informações conforme exemplo abaixo: 
