@@ -90,7 +90,7 @@ No caso da solicitação ter sido enviada para análise manual e retorne com um 
 .. image:: ../images/SAIP-MinhasSolicitacoes-DetalharSolicitacao-InstanciaRecursal.png
    :alt: SAIP Minhas Solicitacoes Detalhar Solicitacao Instancia Recursal
    
-Ao clicar no botão **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**, a solicitação é encaminhada para Instância Recursal. O sistema apresenta uma janela de confirmação, após o clique em **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**  a solicitação é enviada para a segunda instância de análise pelo IPHAN. 
+Ao clicar no botão **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**, a solicitação é encaminhada para Instância Recursal. O sistema apresentará uma janela de confirmação após clicar em **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**  e a solicitação é enviada para a segunda instância de análise pelo IPHAN. 
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-InstanciaRecursal-Mensagem.png
    :alt: SAIP Minhas Solicitacoes Instancia Recursal Mensagem
@@ -103,7 +103,7 @@ Caso deseje concordar com o TRE gerado, clique no botão **Concordo com o TRE an
 Concordo com o TRE analisado manualmente
 -----------------------------------------
 
-Caso a solicitação tenha sido enviada para análise manual no seu retorno com um TRE gerado, o sistema permite que se concorde com o TRE. O sistema apresenta as opções na **Lista de Solicitações** e no **Detalhamento da Solicitação**.
+Caso a solicitação tenha sido enviada para análise manual, no seu retorno com um TRE gerado o sistema permite que se concorde com o TRE. O sistema apresenta as opções na **Lista de Solicitações** e no **Detalhamento da Solicitação**.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ConcordarAnaliseManual.png
    :alt: SAIP Minhas Solicitacoes Concordar Analise Manual
@@ -111,15 +111,15 @@ Caso a solicitação tenha sido enviada para análise manual no seu retorno com 
 .. image:: ../images/SAIP-MinhasSolicitacoes-DetalharSolicitacao-ConcordarAnaliseManual.png
    :alt: SAIP Minhas Solicitacoes Detalhar Solicitacao Concordar Analise Manual
 
-O clique no botão **Concordo com o TRE analisado manualmente**, o sistema entende a sua concordância e remove a opção de solicitar a instância recursal.
+Ao clicar no botão **Concordo com o TRE analisado manualmente** o sistema entende a sua concordância e remove a opção de solicitar a instância recursal.
 
 Excluir Solicitação
 ----------------------------
 
-O clique no botão **Excluir Solicitação**, o sistema apresenta uma janela de confirmação da exclusão. São apresentados os botões **Cancelar** e **Ok** os quais respectivamente, um realiza o fechamento da mensagem e o outro confirma a exclusão da solicitação.
+Ao clicar no botão **Excluir Solicitação** o sistema apresenta uma janela de confirmação da exclusão. São apresentados os botões **Cancelar** e **Ok**  respectivamente. O primeiro realiza o fechamento da mensagem e o último confirma a exclusão da solicitação.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ExcluirSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Excluir Solicitacao
 
 .. note:: 
-   Ao excluir uma solicitação, o sistema modifica a situação para **Cancelada**. Nesse caso, apenas os dados podem ser visualizados.
+   Ao excluir uma solicitação o sistema modifica a situação para **Cancelada**. Nesse caso, apenas os dados podem ser visualizados.
