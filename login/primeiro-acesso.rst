@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 1 - chamado Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
+No passo 1 - Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
@@ -54,7 +54,7 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenc
 Interessado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 2 - chamado Interessado: Preencher as informações da Empresa ou Pessoa Física interessada em solicitar o Licenciamento Ambiental do IPHAN.
+No passo 2 - Interessado: preencher as informações da Empresa ou Pessoa Física interessada em solicitar o Licenciamento Ambiental junto ao IPHAN.
  
 
 
@@ -66,7 +66,7 @@ Ao escolher se o interessado é Pessoa Física ou Pessoa Jurídica, o sistema ge
 Pessoa Física
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informações CPF, Nome, CEP, Complemento, e-mail e Telefone. Ao final, concordar com a auto declaração e clicar no botão **Confirmar**.
+Ao selecionar Pessoa Física deverão ser preenchidas as seguintes informações CPF, nome, CEP, complemento, e-mail e telefone. Ao final, concordar com a auto declaração e clicar no botão **Confirmar**.
 
 .. image:: ../images/DadosComplementares-Interessado-PF.png
    :alt: Dados Complementares Interessado PF
