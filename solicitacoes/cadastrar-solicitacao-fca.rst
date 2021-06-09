@@ -13,7 +13,7 @@ Para cadastrar uma nova solicitação, clicar na opção **Nova Solicitação** 
    :alt: SAIP Nova Solicitacao Selecionar Interessado
 
 .. note:: 
-   O sistema apresenta uma mensagem inicial informativa, para tratar sobre licenciamento no âmbito federal.
+   O sistema apresenta uma mensagem inicial informativa para tratar sobre licenciamento no âmbito federal.
 
    Para continuar na solicitação, clique no botão **Concordo**.  Caso não concorde, clique no botão **Não Concordo**.    
 
