@@ -13,7 +13,7 @@ Para cadastrar uma nova solicitação, clicar na opção **Nova Solicitação** 
    :alt: SAIP Nova Solicitacao Selecionar Interessado
 
 .. note:: 
-   O sistema apresenta uma mensagem inicial informativa para tratar sobre licenciamento no âmbito federal.
+   O sistema apresentará uma mensagem inicial informativa para tratar sobre licenciamento no âmbito Federal.
 
    Para continuar na solicitação, clique no botão **Concordo**.  Caso não concorde, clique no botão **Não Concordo**.    
 
@@ -36,17 +36,17 @@ No passo 1, informar os dados do empreendimento e a Anotação de Responsabilida
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART
 
-Ao informar a Esfera do Licenciamento Ambiental igual a **Federal**, o sistema apresenta uma mensagem explicativa sobre como informar um Processo no Passo 7 - Processos. 
+Ao informar a Esfera do Licenciamento Ambiental igual a **Federal**, o sistema apresentará uma mensagem explicativa sobre como informar o Processo no Passo 7 - Processos. 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART-EsferaFederal.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Esfera Federal
 
-Informar se o empreendimento encontra-se ou não no rol do artigo 4º da IN de número 001/2015, o sistema apresenta uma mensagem de aviso para apenas aceitar licenciamentos federais.
+Informar se o empreendimento encontra-se ou não no rol do artigo 4º da IN de número 001/2015. O sistema apresentará uma mensagem de aviso informando que apenas aceitará licenciamentos federais.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART-AvisoEmpreendimentoINIPHAN.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Aviso Empreendimento IN IPHAN
 
-A Tipologia pode ser preenchida inserindo o código da IN no campo **Item Nº**, acionando a lupa ou selecionando item a item dos campos apresentados. Ao deixar o mouse em cima dos ícones das interrogações (?) ao lado de alguns campos, o sistema apresenta um texto de ajuda para o respectivo campo. 
+A Tipologia pode ser preenchida inserindo-se o código da IN no campo **Item Nº** ou acionando-se a lupa ou selecionando-se item a item dos campos apresentados. Ao deixar o mouse em cima dos ícones das interrogações (?) ao lado de alguns campos, o sistema apresentará um texto de ajuda para o respectivo campo. 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART-Info-ItemNumero.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Info Item Numero
@@ -63,21 +63,21 @@ A Tipologia pode ser preenchida inserindo o código da IN no campo **Item Nº**,
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART-Info-AreaADA.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Info Area ADA
 
-Ao informar se o empreendimento se encontra instalado, o sistema comunica que a respectiva solicitação será encaminhada para análise manual.
+Ao informar se o empreendimento encontra-se instalado, o sistema comunicará que a respectiva solicitação será encaminhada para análise manual.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART-EmpreendimentoInstalado.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Empreendimento Instalado
    
-Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, são de preenchimento obrigatório.  E caso fiquem vazios, o sistema apresenta uma mensagem informando da obrigatoriedade da inserção das informações, conforme exemplo abaixo: 
+Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório.  Caso fiquem vazios o sistema apresentará uma mensagem informando da obrigatoriedade da inserção das informações conforme exemplo abaixo: 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo1-EmpreendimentoART-CamposObrigatorios.png
    :alt: SAIP Nova Solicitacao Passo 1 Empreendimento ART Campos Obrigatorios
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias, mas deseje salvar as informações já preenchidas, acione o botão **Salvar**. O sistema salva todas as informações sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar**. O sistema salvará todas as informações sem realizar as validações necessárias.
 
 .. note::
- Ao finalizar o preenchimento de todas as informações, clique no botão **Próximo** para que o sistema valide as suas informações. E caso, estejam todas corretas o sistema direciona para o Passo 2 - Área Diretamente Afetada - ADA.
+ Ao finalizar o preenchimento de todas as informações, clique no botão **Próximo** para que o sistema valide as suas informações. Caso estejam todas corretas o sistema prosseguirá para o Passo 2 - Área Diretamente Afetada - ADA.
 
 Passo 2 - Área Diretamente Afetada - ADA
 --------------------------------------------
