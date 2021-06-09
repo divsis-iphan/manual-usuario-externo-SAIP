@@ -21,7 +21,7 @@ Em **Pesquisar Solicitação**, na parte superior, encontram-se os filtros de pe
    :alt: SAIP Minhas Solicitacoes Pesquisar Filtros
 
 .. note:: 
-    Sempre que preencher os filtros clique no botão **Pesquisar**, para que a ação seja executada.
+    Sempre que preencher os filtros clique no botão **Pesquisar** para que a ação seja executada.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Filtros-Pesquisar.png
    :alt: SAIP Minhas Solicitacoes Pesquisar  Filtros Pesquisar
@@ -32,13 +32,13 @@ Em **Pesquisar Solicitação**, na parte inferior, encontram-se os registros tot
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado
 
 .. note:: 
-    O sistema permite que você ordene as colunas por ordem crescente ou decrescente, conforme o clique nos títulos de cada coluna.
+    O sistema permite que você ordene as colunas por ordem crescente ou decrescente conforme o clique nos títulos de cada coluna.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Resultado-Ordem.png
    :alt: SAIP Minhas Solicitacoes Resultado Ordem
 
 .. note:: 
-    Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades existe a opção de selecionar os ícones de página anterior e próxima página.
+    Na lista de solicitações o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades existe a opção de selecionar os ícones de página anterior e próxima página.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado-Paginacao.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado Paginacao
@@ -55,7 +55,7 @@ Na lista, no canto direito de cada linha, existem as opções de **Clonar Solici
 Clonar Solicitação
 ----------------------------
 
-Ao acionar o botão **Clonar Solicitação** o sistema clona a respectiva solicitação, informando um novo número da solicitação clonada.
+Ao acionar o botão **Clonar Solicitação** o sistema clona a respectiva solicitação informando o novo número da solicitação clonada.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ClonarSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Clonar Solicitacao
@@ -71,7 +71,7 @@ Ao acionar o botão **Visualizar Solicitação** o sistema apresenta uma janela 
 Detalhar Solicitação
 ----------------------------
 
-Ao acionar o botão **Detalhar Solicitação**, o sistema apresenta uma janela com o número da solicitação, número do SEI, progresso atual do preenchimento, a situação e os arquivos anexados ou gerados pelo sistema para a solicitação. São apresentados os botões **Fechar**, **Encaminhar para a Instância Recursal** e **Concordo com o TRE analisado manualmente**, que ao ser acionado fecha a janela de detalhamento da solicitação, encaminha para a instância recursal e concordar com o TRE gerado na análise manual.
+Ao acionar o botão **Detalhar Solicitação**, o sistema apresenta uma janela com o número da solicitação, número do SEI, progresso atual do preenchimento, a situação da mesma e os arquivos anexados ou gerados pelo sistema para a solicitação. São apresentados os botões **Fechar**, **Encaminhar para a Instância Recursal** e **Concordo com o TRE analisado manualmente**, que respectivamente realizam as ações de fechar a janela de detalhamento da solicitação, encaminhar para a instância recursal e concordar com o TRE gerado na análise manual.
 
 .. note:: 
     As ações **Encaminhar para a Instância Recursal** e **Concordo com o TRE analisado manualmente** são apresentadas de acordo com a **Situação** atual da solicitação.
