@@ -4,7 +4,7 @@ Minhas Solicitações (FCA)
 .. meta::
    :description: Visualizar as solicitações realizadas.
 
-Para acessar as solicitações já realizadas e acompanhá-las pelo SAIP clicar na opção **Minhas Solicitações** no menu lateral esquerdo.
+Para acessar as solicitações já realizadas e acompanhá-las pelo SAIP, clique na opção **Minhas Solicitações** no menu lateral esquerdo.
 
 .. image:: ../images/SAIP-Menu-MinhasSolicitacoes.png
    :alt: SAIP Menu Minhas Solicitacoes
@@ -38,12 +38,12 @@ Em **Pesquisar Solicitação**, na parte inferior, encontram-se os registros tot
    :alt: SAIP Minhas Solicitacoes Resultado Ordem
 
 .. note:: 
-    Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades há a opção de selecionar os ícones de página anterior e próxima página.
+    Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades existe a opção de selecionar os ícones de página anterior e próxima página.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado-Paginacao.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado Paginacao
 
-Na lista há as ações de **Clonar Solicitação**, **Visualizar Solicitação**, **Detalhar Solicitação**, **Encaminhar para a Instância Recursal**, **Concordo com o TRE analisado manualmente** e **Excluir Solicitação** respectivamente.
+Na lista, no canto direito de cada linha, existem as opções de **Clonar Solicitação**, **Visualizar Solicitação**, **Detalhar Solicitação**, **Encaminhar para a Instância Recursal**, **Concordo com o TRE analisado manualmente** e **Excluir Solicitação** respectivamente.
 
 
 .. note:: 
