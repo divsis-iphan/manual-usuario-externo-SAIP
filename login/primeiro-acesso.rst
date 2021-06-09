@@ -66,14 +66,14 @@ Ao escolher se o interessado é Pessoa Física ou Pessoa Jurídica, o sistema ge
 Pessoa Física
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ao selecionar Pessoa Física deverão ser preenchidas as seguintes informações CPF, nome, CEP, complemento, e-mail e telefone. Ao final, concordar com a auto declaração e clicar no botão **Confirmar**.
+Ao selecionar Pessoa Física deverão ser preenchidas as seguintes informações: CPF, nome, CEP, complemento, e-mail e telefone. Ao final, concordar com a autodeclaração e clicar no botão **Confirmar**.
 
 .. image:: ../images/DadosComplementares-Interessado-PF.png
    :alt: Dados Complementares Interessado PF
 
 .. note:: 
 
-   O preenchimento automático acontece se houver o registro na base, ao inserir o CPF.
+   O preenchimento automático acontecerá se houver o registro na base do CPF informado.
 
 .. note:: 
 
