@@ -103,7 +103,7 @@ Após informar o CNPJ, o sistema apresenta o formulário que deverá ser preench
 
    Para pesquisar o seu endereço, insira o CEP correspondente e clique na lupa ao lado esquerdo do campo ou aperte a tecla **Tab** no seu teclado que o sistema pesquisa o endereço, conforme o CEP informado. Caso o sistema, não encontre os dados para o respectivo CEP é permitido que seja inserido o endereço de forma manual. 
    
-Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, são de preenchimento obrigatório. E caso os campos fiquem vazios, o sistema apresenta uma mensagem informando da obrigatoriedade da inserção das informações, conforme exemplo abaixo:
+Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. E caso os campos fiquem vazios, o sistema apresenta uma mensagem informando da obrigatoriedade da inserção das informações, conforme exemplo abaixo:
 
 .. image:: ../images/DadosComplementares-Usuario-Validacao-Campo.png
    :alt: Dados Complementares Usuario Validacao Campo
