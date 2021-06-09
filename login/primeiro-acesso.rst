@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No passo 1 - chamado Usuário: Informar os seus dados como usuário do sistema, Consultor ou empreendedor. E alguns dados pessoais deverão ser informados, como por exemplo:  endereço, e-mail e telefone. Para finalização do cadastro. 
+No passo 1 - chamado Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone. Para finalização do cadastro. 
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
