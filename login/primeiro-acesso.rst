@@ -54,7 +54,7 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenc
 Interessado
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Passo 2 - Interessado: preencher as informações da Empresa ou Pessoa Física interessada em solicitar o Licenciamento Ambiental junto ao IPHAN.
+Passo 2 - Interessado: preencher as informações da empresa ou pessoa física interessada em solicitar o Licenciamento Ambiental junto ao IPHAN.
  
 
 
