@@ -91,39 +91,39 @@ No passo 2, informar os dados da Área Diretamente Afetada (ADA) do Empreendimen
 
 2. Área onde será apresentada mensagens de erro ou casos que irão para análise manual.
 
-3. Área onde são apresentadas as regras que o arquivo, que será utilizado no upload, deve seguir.
+3. Área onde são apresentadas as regras que o arquivo que será utilizado no upload deverá seguir.
 
 4. Área onde são apresentados os botões **Atualizar Bens**, **Desenhar Área** e **Excluir Área**.
 
-   • Ao acionar **Atualizar Bens**, o sistema atualiza a lista (item 5) de bens presente na ADA informada.
+   • Ao acionar **Atualizar Bens**, o sistema atualizará a lista (item 5) de bens presente na ADA informada.
 
-   • Ao acionar **Desenhar Área**, o sistema permite que seja desenhada uma área no mapa, que representará a ADA do Empreendimento.
+   • Ao acionar **Desenhar Área**, o sistema permitirá que seja desenhada uma área no mapa e que representará a ADA do Empreendimento.
 
-   • Ao acionar **Excluir Área**, o sistema remove todas as áreas informadas no mapa.
+   • Ao acionar **Excluir Área**, o sistema removerá todas as áreas informadas no mapa.
 
-5. Área onde apresenta a lista de Bens Materiais, Bens Imateriais e Bens Arqueológicos presente no(s) polígono(s) informado(s) como ADA do Empreendimento.
+5. Área que apresenta a lista de Bens Materiais, Bens Imateriais e Bens Arqueológicos presente no(s) polígono(s) informado(s) como ADA do Empreendimento.
 
-6. Para Bens que estão presentes em mais de um município e/ou estado, o sistema apresenta o botão **Visualizar Estados/Municípios**. Ao acionar este botão, o sistema abre uma janela listando todos os municípios e estados do respectivo Bem.
+6. Para Bens que estão presentes em mais de um município e/ou estado, o sistema apresentará o botão **Visualizar Estados/Municípios**. Ao acionar este botão, o sistema abrirá uma janela listando todos os municípios e estados do respectivo Bem.
 
 7. Paginação do sistema para listas que possuem um elevado número de registros apresentados.
 
 8. Aviso para verificar se a poligonal informada como ADA perpassa as respectivas UF e Municípios apresentados na lista abaixo.
 
-9. Ao salvar, o sistema apresenta uma mensagem de sucesso juntamente com um aviso, informando que a sua solicitação deve ser encaminhada em um determinado período de tempo, e, caso não seja enviada será apagada da nossa base de dados.
+9. Ao clicar em salvar, o sistema apresentará uma mensagem de sucesso juntamente com um aviso informando que a sua solicitação deverá ser submetida dentro de um determinado período de tempo. Caso a solicitação não seja enviada dentro do período de tempo indicao, a mesma será apagada da nossa base de dados.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo2-ADA-Infos.png
    :alt: SAIP Nova Solicitacao Passo 2 ADA Infos
 
-Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, com exceção do mapa que não possui, são de preenchimento obrigatório. E caso os campos fiquem vazios, o sistema apresenta uma mensagem informando da obrigatoriedade da inserção das informações, conforme exemplo abaixo:
+Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, com exceção do mapa, são de preenchimento obrigatório. Caso os campos fiquem vazios, o sistema apresentará uma mensagem informando da obrigatoriedade da inserção das informações conforme exemplo abaixo:
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo2-ADA-CamposObrigatorios.png
    :alt: SAIP Nova Solicitacao Passo 2 ADA Campos Obrigatorios
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias, mas deseje salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva todas as informações sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar** que o sistema salvará todas as informações sem realizar as validações necessárias.
 
 .. note::
-   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide as suas informações e caso esteja tudo correto, será direcionado para o Passo 3 - Área de Influência Direta - AID.
+   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide as suas informações. Caso estejam todas corretas o sistema prosseguirá para o Passo 3 - Área de Influência Direta - AID.
 
 Passo 3 - Área de Influência Direta - AID
 --------------------------------------------
