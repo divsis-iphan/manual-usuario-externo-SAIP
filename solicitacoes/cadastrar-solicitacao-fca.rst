@@ -120,7 +120,7 @@ Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, com exceção
    :alt: SAIP Nova Solicitacao Passo 2 ADA Campos Obrigatorios
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar** que o sistema salvará todas as informações sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar**. O sistema salvará todas as informações sem realizar as validações necessárias.
 
 .. note::
    Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide as suas informações. Caso estejam todas corretas o sistema prosseguirá para o Passo 3 - Área de Influência Direta - AID.
@@ -135,19 +135,19 @@ No passo 3, informar os dados da Área de Influência Direta (AID) do Empreendim
 
 1. Área onde serão apresentadas as mensagens de erro ou casos que serão encaminhados para análise manual.
    
-2. Área onde apresenta as regras que o arquivo, será utilizado no upload, deve seguir.
+2. Área onde são apresentadas as regras que o arquivo que será utilizado no upload deverá seguir.
 
 3. Área onde apresenta os botões **Atualizar Bens**, **Desenhar Área** e **Excluir Área**.
 
    • Ao acionar **Atualizar Bens**, o sistema atualiza a lista (item 4) de bens presentes na AID informada.
 
-   • Ao acionar **Desenhar Área**, o sistema permite que seja desenhada uma área no mapa, que representará a AID do Empreendimento.
+   • Ao acionar **Desenhar Área**, o sistema permite que seja desenhada uma área no mapa que representará a AID do Empreendimento.
 
    • Ao acionar **Excluir Área**, o sistema remove todas as áreas informadas no mapa.
 
 4. Área onde será apresenta a lista de Bens Materiais, Bens Imateriais e Bens Arqueológicos presente no(s) polígono(s) informado(s) como ADA do Empreendimento.
 
-5. Para Bens que estão presente em mais de um município e/ou estado, o sistema apresenta o botão **Visualizar Estados/Municípios**. Ao acionar este botão, o sistema abre uma janela listando todos os municípios e estados do respectivo Bem.
+5. Para Bens que estão presentes em mais de um município e/ou estado, o sistema apresentar o botão **Visualizar Estados/Municípios**. Ao acionar este botão, o sistema abre uma janela listando todos os municípios e estados do respectivo Bem.
 
 6. Paginação do sistema para listas que possuem um elevado número de registros apresentados.
 
@@ -156,16 +156,16 @@ No passo 3, informar os dados da Área de Influência Direta (AID) do Empreendim
 .. image:: ../images/SAIP-NovaSolicitacao-Passo3-AID-Infos.png
    :alt: SAIP Nova Solicitacao Passo 3 AID Infos
 
-O mapa é único campo de preenchimento obrigatório. E caso, o campo não seja preenchido o sistema apresenta uma mensagem de alerta, conforme exemplo abaixo:
+O mapa é único campo de preenchimento obrigatório. Caso o mapa não seja informado, o sistema apresentará uma mensagem de alerta conforme exemplo abaixo:
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo3-AID-CamposObrigatorios.png
    :alt: SAIP Nova Solicitacao Passo 3 AID Campos Obrigatorios
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias, mas deseja salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar** que o sistema salvará sem realizar as validações necessárias.
 
 .. note::
-   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide e direcione para o Passo 4 - Municípios. 
+   Quando todas as informações estiverem corretamente preenchidas, acione o botão **Próximo** para que o sistema valide e prossiga para o Passo 4 - Municípios. 
 
 Passo 4 - Municípios
 --------------------------------------------
@@ -176,7 +176,7 @@ No passo 4, deverão ser visualizadas se as informações de municípios coincid
    :alt: SAIP Nova Solicitacao Passo 3 AID
 
 .. note::
-   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema direcione para o Passo 5 - Elementos do Projeto de Engenharia.
+   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema prossiga para o Passo 5 - Elementos do Projeto de Engenharia.
 
 Passo 5 - Elementos do Projeto de Engenharia
 --------------------------------------------
@@ -192,36 +192,36 @@ No passo 5, deverão ser informados os dados do projeto de engenharia e instala�
 
 3. Área onde são apresentados os botões **Visualizar Imagem** e **Excluir Imagem**.
 
-   • Ao acionar **Visualizar Imagem**, o sistema apresenta a respectiva imagem em uma nova janela.
+   • Ao acionar **Visualizar Imagem**, o sistema apresentará a respectiva imagem em uma nova janela.
 
-   • Ao acionar **Excluir Imagem**, o sistema apresenta mensagem de confirmação para excluir a respectiva imagem.
+   • Ao acionar **Excluir Imagem**, o sistema apresentará uma mensagem de confirmação para excluir a respectiva imagem.
 
 4. Área onde deverão ser informadas as instalações secundárias do projeto de engenharia e listará todas as instalações já cadastradas.
 
 5. Área onde são apresentados os botões **Editar Instalação Secundária** e **Excluir Instalação Secundária**.
    
-   • Ao acionar **Editar Instalação Secundária**, o sistema apresenta os dados da respectiva instalação secundária para a ser editado.
+   • Ao acionar **Editar Instalação Secundária**, o sistema apresentará os dados da respectiva instalação secundária para a serem editados.
 
-   • Ao acionar **Excluir Instalação Secundária**, o sistema apresenta mensagem de confirmação para excluir a respectiva instalação secundária.
+   • Ao acionar **Excluir Instalação Secundária**, o sistema apresentará uma mensagem de confirmação para excluir a respectiva instalação secundária.
 
 6. Botão **Adicionar** ao ser acionado, adiciona os dados da Instalação Secundária na lista de Instalações. Ao editar, o botão tem a nomenclatura **Atualizar** que ao ser acionado atualiza os dados da respectiva Instalação Secundária.
 
 .. note::
-   Caso deseje que a imagem possua um nome diferente do arquivo original, informe primeiro no campo **Nome do Arquivo**, para então selecionar o arquivo a ser inserido. 
+   Caso deseje que a imagem possua um nome diferente do arquivo original, informe primeiro no campo **Nome do Arquivo** para então selecionar o arquivo a ser inserido. 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo5-ElementosProjetoEngenharia-Infos.png
    :alt: SAIP Nova Solicitacao Passo 5 Elementos Projeto Engenharia Infos
 
-Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, são de preenchimento obrigatório. E caso, os campos fiquem vazios o sistema apresenta uma mensagem informando da obrigatoriedade da inserção das informações, conforme exemplo abaixo: 
+Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado são de preenchimento obrigatório. Caso os campos fiquem vazios, o sistema apresentará uma mensagem informando da obrigatoriedade da inserção das informações conforme exemplo abaixo: 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo5-ElementosProjetoEngenharia-CamposObrigatorios.png
    :alt: SAIP Nova Solicitacao Passo 5 Elementos Projeto Engenharia Campos Obrigatorios
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias, mas deseja salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva todas as informações sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar** que o sistema salvará todas as informações sem realizar as validações necessárias.
 
 .. note::
-   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema direcione para o Passo 6 - Previsão de Impacto.
+   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema prossiga para o Passo 6 - Previsão de Impacto.
 
 Passo 6 - Previsão de Impacto
 --------------------------------------------
