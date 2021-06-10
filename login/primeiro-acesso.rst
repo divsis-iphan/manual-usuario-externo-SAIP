@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Passo 1 - Usuário: informar os seus dados como usuário do sistema. Deverão ser preenchidas as seguintes informações: se é consultor ou empreendedor, CPF, RG, órgão expedidor, nome da empresa, CEP, complemento, e-mail e telefones.
+Passo 1 - Usuário: informar os seus dados como usuário do sistema. Deverão ser preenchidas as seguintes informações: se é consultor ou empreendedor, CPF, RG, órgão expedidor, nome da empresa, CEP, complemento e telefones.
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
