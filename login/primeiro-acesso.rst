@@ -30,7 +30,7 @@ Após o seu login utilizando a plataforma **gov.br**, por se tratar do primeiro 
 Usuário
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Passo 1 - Usuário: informar os seus dados como usuário do sistema, se é consultor ou empreendedor, além de alguns dados pessoais como por exemplo  endereço, e-mail e telefone.
+Passo 1 - Usuário: informar os seus dados como usuário do sistema. Deverão ser preenchidas as seguintes informações: se é consultor ou empreendedor, CPF, RG, órgão expedidor, nome da empresa, CEP, complemento, e-mail e telefones.
 
 Clique no botão **Avançar** ao terminar o formulário. 
 
@@ -66,7 +66,7 @@ Ao escolher se o interessado é Pessoa Física ou Pessoa Jurídica, o sistema ge
 Pessoa Física
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informações: CPF, nome, CEP, complemento, e-mail e telefone. Ao final, concordar com a autodeclaração e clicar no botão **Confirmar**.
+Ao selecionar Pessoa Física, deverão ser preenchidas as seguintes informações: CPF, nome, CEP, complemento, e-mail e telefones. Ao final, concordar com a autodeclaração e clicar no botão **Confirmar**.
 
 .. image:: ../images/DadosComplementares-Interessado-PF.png
    :alt: Dados Complementares Interessado PF
