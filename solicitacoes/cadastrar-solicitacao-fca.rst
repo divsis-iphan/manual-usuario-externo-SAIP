@@ -231,21 +231,21 @@ No passo 6, informar os dados sobre previsão de impacto no Empreendimento.
 .. image:: ../images/SAIP-NovaSolicitacao-Passo6-PrevisaoImpacto.png
    :alt: SAIP Nova Solicitacao Passo 6 Previsao Impacto
 
-Ao deixar o mouse em cima dos ícones das interrogações (?) ao lado de alguns campos, o sistema apresenta um texto de ajuda para o respectivo campo.
+Ao deixar o mouse em cima dos ícones das interrogações (?) ao lado de alguns campos, o sistema apresentará um texto de ajuda para o respectivo campo.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo6-PrevisaoImpacto-Info-MeioAquatico.png
    :alt: SAIP Nova Solicitacao Passo 6 Previsao Impacto Info Meio Aquatico
 
-Ao informar que há impacto em meio aquático no Empreendimento, o sistema apresenta uma mensagem explicativa sobre análise manual da respectiva solicitação. 
+Ao informar que há impacto em meio aquático no Empreendimento, o sistema apresentará uma mensagem explicativa sobre o encaminhamento da solicitação para a análise manual. 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo6-PrevisaoImpacto-MeioAquatico.png
    :alt: SAIP Nova Solicitacao Passo 6 Previsao Impacto Meio Aquatico
 
 .. note::
-   Caso não tenha preenchido todas as informações obrigatórias, mas deseje salvar as informações já preenchidas, acione o botão **Salvar**, que o sistema salva sem realizar as validações necessárias.
+   Caso não tenha preenchido todas as informações obrigatórias mas deseje salvar as informações já preenchidas, acione o botão **Salvar** que o sistema salvará todas as informações sem realizar as validações necessárias.
 
 .. note::
-   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema direcione para o Passo 6 - Previsão de Impacto.
+   Caso as informações sejam apresentadas corretamente, acione o botão **Próximo** para que o sistema prossiga para o Passo 6 - Previsão de Impacto.
 
 Passo 7 - Processos
 --------------------------------------------
@@ -261,32 +261,32 @@ Em **Dados de Processos**, informar os dados dos processos que o Empreendimento 
    :alt: SAIP Nova Solicitacao Passo 7 Processos Incluir Processo
 
 .. note:: 
-    Lembre-se que, ao terminar de preencher os dados o botão **Adicionar** deverá ser clicado para que o sistema inclua os dados informados na solicitação
+    Lembre-se que o botão **Adicionar** deverá ser clicado ao terminar de preencher os dados para que o sistema inclua os dados informados na solicitação
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-IncluirProcesso-Adicionar.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Incluir Processo Adicionar
 
-Abaixo, o sistema apresenta a lista de processos cadastrados na solicitação.
+Abaixo o sistema apresenta a lista de processos cadastrados na solicitação.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-ProcessoLista.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Processo Lista
 
-Na lista, as ações de **Visualizar Processo**, **Editar Processo** e **Excluir Processo**, respectivamente.
+Na lista são apreentadas as ações de **Visualizar Processo**, **Editar Processo** e **Excluir Processo** respectivamente.
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-ProcessoLista-Acoes.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Processo Lista Acoes
 
-* Visualizar Interessado
+* Visualizar Processo
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-VisualizarProcesso.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Visualizar Processo
 
-* Excluir Interessado
+* Excluir Processo
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-ExcluirProcesso.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Excluir Processo
    
-Ao acionar o botão **Salvar**, o sistema identifica se todas as informações necessárias estão corretas e então disponibilizará o botão **Enviar Solicitação**.  Ao salvar, caso necessário, o sistema informa no topo mensagens de alerta sobre a solicitação. 
+Ao acionar o botão **Salvar**, o sistema identificará se todas as informações necessárias estão corretas e então disponibilizará o botão **Enviar Solicitação**.  Ao salvar, caso necessário, o sistema informará no topo um mensagem de alerta sobre a solicitação. 
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo7-Processos-Salvar.png
    :alt: SAIP Nova Solicitacao Passo 7 Processos Salvar
