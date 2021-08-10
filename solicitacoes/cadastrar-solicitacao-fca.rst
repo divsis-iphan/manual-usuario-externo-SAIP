@@ -114,6 +114,11 @@ No passo 2, informar os dados da Área Diretamente Afetada (ADA) do Empreendimen
 .. image:: ../images/SAIP-NovaSolicitacao-Passo2-ADA-Infos.png
    :alt: SAIP Nova Solicitacao Passo 2 ADA Infos
 
+.. note:: 
+   O arquivo da **ADA** deverá estar em dois formatos: **KML** ou **Shapefile** |br|
+   O formato **KML** é um arquivo único. |br|
+   O formato **Shapefile** é quando há ao menos os arquivos no formato DBF, SHP, SHX e PRJ, ou seja, os 4 formatos de arquivo com o mesmo nome, compactados no formato ZIP.
+   
 Os campos que possuem um asterisco em vermelho (:red:`*`) ao lado, com exceção do mapa que não possui, são de preenchimento obrigatório. E caso os campos fiquem vazios, o sistema apresenta uma mensagem informando da obrigatoriedade da inserção das informações, conforme exemplo abaixo:
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo2-ADA-CamposObrigatorios.png
@@ -155,6 +160,11 @@ No passo 3, informar os dados da Área de Influência Direta (AID) do Empreendim
 
 .. image:: ../images/SAIP-NovaSolicitacao-Passo3-AID-Infos.png
    :alt: SAIP Nova Solicitacao Passo 3 AID Infos
+
+.. note:: 
+   O arquivo da **AID** deverá estar em dois formatos: **KML** ou **Shapefile** |br|
+   O formato **KML** é um arquivo único. |br|
+   O formato **Shapefile** é quando há ao menos os arquivos no formato DBF, SHP, SHX e PRJ, ou seja, os 4 formatos de arquivo com o mesmo nome, compactados no formato ZIP.
 
 O mapa é único campo de preenchimento obrigatório. E caso, o campo não seja preenchido o sistema apresenta uma mensagem de alerta, conforme exemplo abaixo:
 
@@ -292,3 +302,8 @@ Ao acionar o botão **Salvar**, o sistema identifica se todas as informações n
    :alt: SAIP Nova Solicitacao Passo 7 Processos Salvar
 
 Ao acionar o botão **Enviar Solicitação**, o sistema encaminha a solicitação ao IPHAN para análise. 
+
+.. # Não mexer se não sabe o que ta fazendo
+.. |br| raw:: html
+
+      <br>
