@@ -4,7 +4,7 @@ Minhas Solicitações (FCA)
 .. meta::
    :description: Visualizar as solicitações realizadas.
 
-Para acessar, as solicitações já realizadas e acompanhá-las pelo SAIP clicar na opção **Minhas Solicitações** no menu lateral esquerdo.
+Para acessar as solicitações já realizadas e acompanhá-las pelo SAIP, clique na opção **Minhas Solicitações** no menu lateral esquerdo.
 
 .. image:: ../images/SAIP-Menu-MinhasSolicitacoes.png
    :alt: SAIP Menu Minhas Solicitacoes
@@ -15,39 +15,39 @@ Para acessar, as solicitações já realizadas e acompanhá-las pelo SAIP clicar
 Solicitações
 ----------------------------
 
-Em **Pesquisar Solicitação**, na parte superior se encontram os filtros de pesquisa como Número da Solicitação, Fase, Situação, Data de Abertura e Empreendimento.
+Em **Pesquisar Solicitação**, na parte superior, encontram-se os filtros de pesquisa como Número da Solicitação, Fase, Situação, Data de Abertura e Empreendimento.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Filtros.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Filtros
 
 .. note:: 
-    Sempre que preencher os filtros clique no botão **Pesquisar**, para que a ação seja executada.
+    Sempre que preencher os filtros clique no botão **Pesquisar** para que a ação seja executada.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Filtros-Pesquisar.png
    :alt: SAIP Minhas Solicitacoes Pesquisar  Filtros Pesquisar
 
-Em **Pesquisar Solicitação**, na parte inferior encontram se os registros totais de solicitações ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são: Solicitação, Empreendimento, Fase, Situação, Data de Abertura e Ações. 
+Em **Pesquisar Solicitação**, na parte inferior, encontram-se os registros totais de solicitações ou o resultado da pesquisa realizada com os filtros. As colunas apresentadas são: Solicitação, Empreendimento, Fase, Situação, Data de Abertura e Ações. 
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado
 
 .. note:: 
-    O sistema permite que você ordene as colunas por ordem crescente ou decrescente, conforme o clique nos títulos de cada coluna.
+    O sistema permite que você ordene as colunas por ordem crescente ou decrescente conforme o clique nos títulos de cada coluna.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Resultado-Ordem.png
    :alt: SAIP Minhas Solicitacoes Resultado Ordem
 
 .. note:: 
-    Na lista de solicitações, o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades há a opção de selecionar os ícones de página anterior e próxima página.
+    Na lista de solicitações o sistema apresenta a paginação a cada 10 registros. É possível selecionar a página desejada e nas extremidades existe a opção de selecionar os ícones de página anterior e próxima página.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Pesquisar-Resultado-Paginacao.png
    :alt: SAIP Minhas Solicitacoes Pesquisar Resultado Paginacao
 
-Na lista, há as ações de **Clonar Solicitação**, **Visualizar Solicitação**, **Detalhar Solicitação**, **Encaminhar para a Instância Recursal**, **Concordo com o TRE analisado manualmente** e **Excluir Solicitação**, respectivamente.
+Na lista, no canto direito de cada linha, existem as opções de **Clonar Solicitação**, **Visualizar Solicitação**, **Detalhar Solicitação**, **Encaminhar para a Instância Recursal**, **Concordo com o TRE analisado manualmente** e **Excluir Solicitação** respectivamente.
 
 
 .. note:: 
-    As ações são apresentadas, de acordo com a **Situação** atual da solicitação.
+    As ações são apresentadas de acordo com a **Situação** atual da solicitação.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-Acoes.png
    :alt: SAIP Minhas Solicitacoes Acoes
@@ -55,7 +55,7 @@ Na lista, há as ações de **Clonar Solicitação**, **Visualizar Solicitação
 Clonar Solicitação
 ----------------------------
 
-Ao acionar o botão **Clonar Solicitação**, o sistema clona a respectiva solicitação, informando um novo número da solicitação clonada.
+Ao acionar o botão **Clonar Solicitação** o sistema clona a respectiva solicitação informando o novo número da solicitação clonada.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ClonarSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Clonar Solicitacao
@@ -63,7 +63,7 @@ Ao acionar o botão **Clonar Solicitação**, o sistema clona a respectiva solic
 Visualizar Solicitação
 ----------------------------
 
-Ao acionar o botão **Visualizar Solicitação**, o sistema apresenta uma janela com os dados da solicitação. Caso deseje fechar a janela, clique no botão **Fechar**.
+Ao acionar o botão **Visualizar Solicitação** o sistema apresenta uma janela com os dados da solicitação. Caso deseje fechar a janela, clique no botão **Fechar**.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-VisualizarSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Visualizar Solicitacao
@@ -71,7 +71,7 @@ Ao acionar o botão **Visualizar Solicitação**, o sistema apresenta uma janela
 Detalhar Solicitação
 ----------------------------
 
-Ao acionar o botão **Detalhar Solicitação**, o sistema apresenta uma janela com o número da solicitação, número do SEI, progresso atual do preenchimento, a situação e os arquivos anexados ou gerados pelo sistema para a solicitação. São apresentados os botões **Fechar**, **Encaminhar para a Instância Recursal** e **Concordo com o TRE analisado manualmente**, que ao ser acionado fecha a janela de detalhamento da solicitação, encaminha para a instância recursal e concordar com o TRE gerado na análise manual.
+Ao acionar o botão **Detalhar Solicitação**, o sistema apresenta uma janela com o número da solicitação, número do SEI, progresso atual do preenchimento, a situação da mesma e os arquivos anexados ou gerados pelo sistema para a solicitação. São apresentados os botões **Fechar**, **Encaminhar para a Instância Recursal** e **Concordo com o TRE analisado manualmente**, que respectivamente realizam as ações de fechar a janela de detalhamento da solicitação, encaminhar para a instância recursal e concordar com o TRE gerado na análise manual.
 
 .. note:: 
     As ações **Encaminhar para a Instância Recursal** e **Concordo com o TRE analisado manualmente** são apresentadas de acordo com a **Situação** atual da solicitação.
@@ -90,7 +90,7 @@ No caso da solicitação ter sido enviada para análise manual e retorne com um 
 .. image:: ../images/SAIP-MinhasSolicitacoes-DetalharSolicitacao-InstanciaRecursal.png
    :alt: SAIP Minhas Solicitacoes Detalhar Solicitacao Instancia Recursal
    
-Ao clicar no botão **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**, a solicitação é encaminhada para Instância Recursal. O sistema apresenta uma janela de confirmação, após o clique em **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**  a solicitação é enviada para a segunda instância de análise pelo IPHAN. 
+Ao clicar no botão **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**, a solicitação é encaminhada para Instância Recursal. O sistema apresentará uma janela de confirmação após clicar em **Não concordo com o TRE analisado manualmente. Encaminhar para Instância Recursal**  e a solicitação é enviada para a segunda instância de análise pelo IPHAN. 
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-InstanciaRecursal-Mensagem.png
    :alt: SAIP Minhas Solicitacoes Instancia Recursal Mensagem
@@ -103,7 +103,7 @@ Caso deseje concordar com o TRE gerado, clique no botão **Concordo com o TRE an
 Concordo com o TRE analisado manualmente
 -----------------------------------------
 
-Caso a solicitação tenha sido enviada para análise manual no seu retorno com um TRE gerado, o sistema permite que se concorde com o TRE. O sistema apresenta as opções na **Lista de Solicitações** e no **Detalhamento da Solicitação**.
+Caso a solicitação tenha sido enviada para análise manual, no seu retorno com um TRE gerado o sistema permite que se concorde com o TRE. O sistema apresenta as opções na **Lista de Solicitações** e no **Detalhamento da Solicitação**.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ConcordarAnaliseManual.png
    :alt: SAIP Minhas Solicitacoes Concordar Analise Manual
@@ -111,15 +111,15 @@ Caso a solicitação tenha sido enviada para análise manual no seu retorno com 
 .. image:: ../images/SAIP-MinhasSolicitacoes-DetalharSolicitacao-ConcordarAnaliseManual.png
    :alt: SAIP Minhas Solicitacoes Detalhar Solicitacao Concordar Analise Manual
 
-O clique no botão **Concordo com o TRE analisado manualmente**, o sistema entende a sua concordância e remove a opção de solicitar a instância recursal.
+Ao clicar no botão **Concordo com o TRE analisado manualmente** o sistema entende a sua concordância e remove a opção de solicitar a instância recursal.
 
 Excluir Solicitação
 ----------------------------
 
-O clique no botão **Excluir Solicitação**, o sistema apresenta uma janela de confirmação da exclusão. São apresentados os botões **Cancelar** e **Ok** os quais respectivamente, um realiza o fechamento da mensagem e o outro confirma a exclusão da solicitação.
+Ao clicar no botão **Excluir Solicitação** o sistema apresenta uma janela de confirmação da exclusão. São apresentados os botões **Cancelar** e **Ok**  respectivamente. O primeiro realiza o fechamento da mensagem e o último confirma a exclusão da solicitação.
 
 .. image:: ../images/SAIP-MinhasSolicitacoes-ExcluirSolicitacao.png
    :alt: SAIP Minhas Solicitacoes Excluir Solicitacao
 
 .. note:: 
-   Ao excluir uma solicitação, o sistema modifica a situação para **Cancelada**. Nesse caso, apenas os dados podem ser visualizados.
+   Ao excluir uma solicitação o sistema modifica a situação para **Cancelada**. Nesse caso, apenas os dados podem ser visualizados.
